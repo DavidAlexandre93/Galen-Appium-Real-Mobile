@@ -1,2 +1,2 @@
-# Galen-Appium-Real-Mobile
-Test Real Mobile Device
+# Real-Mobile-Appium-JUnit
+Test Real Mobile Device Junit
